@@ -1,0 +1,82 @@
+[
+  {
+    "disease": "Dengue",
+    "region": "Pakistan",
+    "severity": "High",
+    "symptoms": ["fever", "joint pain", "rash", "muscle pain", "headache", "eye pain"],
+    "reported_date": "2025-07-01",
+    "source": "WHO Pakistan"
+  },
+  {
+    "disease": "Malaria",
+    "region": "Pakistan",
+    "severity": "High",
+    "symptoms": ["fever", "chills", "sweating", "nausea", "vomiting", "headache", "fatigue"],
+    "reported_date": "2025-06-15",
+    "source": "WHO Pakistan"
+  },
+  {
+    "disease": "Typhoid",
+    "region": "Pakistan",
+    "severity": "Moderate",
+    "symptoms": ["fever", "abdominal pain", "weakness", "diarrhea", "constipation", "headache"],
+    "reported_date": "2025-06-01",
+    "source": "National Institute of Health Pakistan"
+  },
+  {
+    "disease": "COVID-19",
+    "region": "Global",
+    "severity": "Moderate",
+    "symptoms": ["fever", "cough", "fatigue", "shortness of breath", "loss of taste", "loss of smell", "sore throat"],
+    "reported_date": "2025-01-01",
+    "source": "WHO Global"
+  },
+  {
+    "disease": "Influenza H3N2",
+    "region": "India",
+    "severity": "Moderate",
+    "symptoms": ["fever", "cough", "runny nose", "sore throat", "body aches", "fatigue", "chills"],
+    "reported_date": "2025-05-10",
+    "source": "Indian Council of Medical Research"
+  },
+  {
+    "disease": "Mpox",
+    "region": "Africa",
+    "severity": "High",
+    "symptoms": ["fever", "rash", "swollen lymph nodes", "headache", "muscle pain", "fatigue"],
+    "reported_date": "2025-04-20",
+    "source": "WHO Africa"
+  },
+  {
+    "disease": "Cholera",
+    "region": "Sudan",
+    "severity": "High",
+    "symptoms": ["diarrhea", "vomiting", "dehydration", "muscle cramps", "nausea"],
+    "reported_date": "2025-05-01",
+    "source": "WHO Sudan"
+  },
+  {
+    "disease": "Hepatitis E",
+    "region": "Pakistan",
+    "severity": "Moderate",
+    "symptoms": ["jaundice", "fatigue", "abdominal pain", "nausea", "fever", "dark urine"],
+    "reported_date": "2025-03-15",
+    "source": "National Institute of Health Pakistan"
+  },
+  {
+    "disease": "Measles",
+    "region": "Afghanistan",
+    "severity": "High",
+    "symptoms": ["fever", "rash", "cough", "runny nose", "red eyes", "muscle pain"],
+    "reported_date": "2025-04-01",
+    "source": "UNICEF Afghanistan"
+  },
+  {
+    "disease": "Tuberculosis",
+    "region": "Pakistan",
+    "severity": "High",
+    "symptoms": ["cough", "weight loss", "night sweats", "fatigue", "fever", "coughing blood"],
+    "reported_date": "2025-01-01",
+    "source": "Pakistan National TB Control Program"
+  }
+]
